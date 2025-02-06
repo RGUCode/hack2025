@@ -15,15 +15,15 @@
 
 </p>
 
-Core29 - <TBD>
+Core29 - \<TBD>
 
-elementz - Subsea Position Visualisation
+elementz - Subsea Position Visualisation ([spec](RGUHack%20Elementz%20Challenge%20Spec.pdf))
 
-SALUS - <TBD>
+SALUS - \<TBD>
 
-RGU School of Computing, Engineering and Technology (Computing) - <TBD>
+RGU School of Computing, Engineering and Technology (Computing) - \<TBD>
 
-SOCET (Engineering) - <TBD>
+SOCET (Engineering) - \<TBD>
 
 Note that you may struggle to view powerpoint files on github online but you will be able to download these for viewing.
 
