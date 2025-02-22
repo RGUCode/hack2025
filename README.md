@@ -1,31 +1,52 @@
-# hack2025
-<p float="left">
- <img src="https://rguhack.uk/logo.png" />
- <h1>RGU Hack </h1>
- Welcome to RGUHack 2025! We hope you enjoyed the opening presentations from our amazing sponsors!
- See below for the challenge slides and good luck!
+# RGUHack 2025
 
- Thanks to all our sponsors and remember to post under #rguhack on LinkedIn
- 
- Core29, elementz, Salus Technical, RGU School of Computing Engineering and Technology, Sword Group, Fennex, Aize, Mintra, Dev4, Aberdeen Renewable Energy Group
+![RGUHack Logo](https://rguhack.uk/logo.png)
 
- [**Join the Computing Society Discord to give us questions in the rguhack forum!**](https://discord.gg/nRRZS5JS)
- 
- # Challenges
+Welcome to **RGUHack 2025**! We hope you enjoyed the opening presentations from our amazing sponsors. Below you’ll find the challenge slides for each sponsor’s challenge. Good luck!
 
-</p>
+Remember to post under #rguhack on LinkedIn to share your progress.
 
-Core29 - \<TBD>
+---
 
-elementz - Subsea Position Visualisation ([spec](RGUHack%20Elementz%20Challenge%20Spec.pdf))
+## Sponsors
 
-SALUS - \<TBD>
+- RGU School of Computing Engineering and Technology
+- Core29
+- Salus Technical
+- elementz
+- Aize
+- Fennex
+- Sword Group
+- CGI
+- Aberdeen Renewable Energy Group
+- Mintra
+- Dev4
 
-RGU School of Computing, Engineering and Technology (Computing) - \<TBD>
+---
 
-SOCET (Engineering) - \<TBD>
+## Challenges
 
-Note that you may struggle to view powerpoint files on github online but you will be able to download these for viewing.
+- **Core29:**  
+  [Intelligent Wildlife Tracking Application](./core29-slides.pdf)
 
-#Api Workshop Files
-https://github.com/wildfireone/api-workshop
+- **elementz:**  
+  [Subsea Position Visualisation](./elementz-challenge.pdf)
+
+- **Salus Technical:**  
+  [Interactive Text-Based or Multiple-Choice Game](./salus-challenge-brief.pdf)
+
+- **SoCET (Computing):**  
+  [Prevention Tool](./computing-challenge-brief.pdf)
+
+- **SoCET (Engineering):**  
+  [Object Tracking Tool](./engineering-challenge-brief.pdf)
+
+> **Note:** If you have trouble viewing PDF and PowerPoint files on GitHub, please download them to view locally.
+
+---
+
+## Get Involved
+
+Join the [Computing Society Discord](https://discord.gg/nRRZS5JS) to ask questions and engage in the RGUHack forum!
+
+Good luck and happy hacking!
