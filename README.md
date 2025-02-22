@@ -40,6 +40,15 @@ Remember to post under #rguhack on LinkedIn to share your progress.
 
 - **SoCET (Engineering):**  
   [Object Tracking Tool](./engineering-challenge-brief.pdf)
+  
+- **Workshops:**
+
+  [Sensor Workshop](./sensor-workshop.pdf)
+
+  [AI Workshop](./sensor-workshop.pdf)
+
+  [API Workshop](https://github.com/wildfireone/api-workshop)
+
 
 > **Note:** If you have trouble viewing PDF and PowerPoint files on GitHub, please download them to view locally.
 
